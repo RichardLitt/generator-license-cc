@@ -70,12 +70,12 @@ For more information read [Yeoman's Documentation page on Composability][1].
 This generator allows you to generate `LICENSE` file for your project with one
 of [Creative Commons Licenses][10]:
 
-- `CC-BY-4.0` [Ceative Commons Attribution 4.0 License][11]
-- `CC-BY-SA-4.0` [Cretive Commons Attribution Share Alike 4.0 License][12]
-- `CC-BY-ND-4.0` [Cretive Commons Attribution No Deriveratives 4.0 License][13]
-- `CC-BY-NC-4.0` [Cretive Commons Attribution Non Commercial 4.0 License][14]
-- `CC-BY-NC-SA-4.0` [Cretive Commons Attribution Non Commercial Share Alike 4.0 License][15]
-- `CC-BY-NC-ND-4.0` [Cretive Commons Attribution Non Commercial No Deriveratives 4.0][16]
+- `CC-BY-4.0` [Creative Commons Attribution 4.0 License][11]
+- `CC-BY-SA-4.0` [Creative Commons Attribution Share Alike 4.0 License][12]
+- `CC-BY-ND-4.0` [Creative Commons Attribution No Derivatives 4.0 License][13]
+- `CC-BY-NC-4.0` [Creative Commons Attribution Non Commercial 4.0 License][14]
+- `CC-BY-NC-SA-4.0` [Creative Commons Attribution Non Commercial Share Alike 4.0 License][15]
+- `CC-BY-NC-ND-4.0` [Creative Commons Attribution Non Commercial No Derivatives 4.0][16]
 
 Alternatively, you can pick [CC0 Public Domain 1.0][17] to waive all copyright.
 
@@ -124,4 +124,3 @@ This work is licensed under [MIT LICENSE](LICENSE).
 [daviddm-url]: https://david-dm.org/ek9/generator-license-cc
 [coverage-image]: https://coveralls.io/repos/github/ek9/generator-license-cc/badge.svg
 [coverage-url]: https://coveralls.io/github/ek9/generator-license-cc
-
